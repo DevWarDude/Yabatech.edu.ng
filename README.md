@@ -1,1 +1,1 @@
-A clone Of YabaTech Portal
+A clone of YabaTech Portal
